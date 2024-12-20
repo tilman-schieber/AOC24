@@ -1,0 +1,8 @@
+# Ignore binary and executable files
+*.hi
+*.o
+*.so
+*.dyn_o
+*.dyn_hi
+*.out
+*.exe
