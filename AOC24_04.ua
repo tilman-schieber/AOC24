@@ -1,0 +1,17 @@
+$ MMMSXXMASM
+$ MSAMXMSMSA
+$ AMXSXMAAMM
+$ MSAMASMSMX
+$ XMASAMXAMM
+$ XXAMMXXAMA
+$ SMSMSASXSS
+$ SAXAMASAAA
+$ MAMMMXMMMM
+$ MXMXAXMASX
+Sample ←
+⊜∘≠@\n.&fras "input.txt"
+
+.≡⍥(⍉⇌)⇡4¤
+/+♭⊂⊃(⌕|⌕⬚@\W⤸0_0) "XMAS"
+:
+/+♭⌕[:"\WA\W"."M\WS"]
