@@ -9,7 +9,7 @@ $ SAXAMASAAA
 $ MAMMMXMMMM
 $ MXMXAXMASX
 Sample ←
-⊜∘≠@\n.&fras "input.txt"
+⊜∘≠@\n.&fras "data/AOC24_04.txt"
 
 .≡⍥(⍉⇌)⇡4¤
 /+♭⊂⊃(⌕|⌕⬚@\W⤸0_0) "XMAS"
